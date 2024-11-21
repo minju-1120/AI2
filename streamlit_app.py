@@ -51,12 +51,12 @@ if uploaded_file is not None:
     # 클래스별 확률을 HTML과 CSS로 시각화
     st.markdown("<h3>클래스별 확률:</h3>", unsafe_allow_html=True)
 
-    # if prediction == labels[0]:
-    #     st.write("중냉 꿋굿")
-    # elif prediction == labels[1]:
-    #     st.write("짜장면은 굿")
-    # elif prediction == labels[2]:
-    #     st.write("짬뽕은 맵지만 맛있어!!")
+    if prediction == labels[0]:
+        st.write("0393 팽도리 : 자존심이 강해서 사람에게 먹이를 얻는 것을 싫어한다. 긴 솜털이 추위를 막는다.")
+    elif prediction == labels[1]:
+         st.write("0183 마릴 : 꼬리 끝에는 물보다 가벼운 기름이 가득 차 있어서 물에 빠지지 않고 강을 건널 수 있다.")
+    elif prediction == labels[2]:
+         st.write("0007 꼬부기 : 기다란 목을 등껍질 속에 감춘 다음 기세 좋게 물대포를 발사한다.")
 
     for label, prob in zip(labels, probs):
         # HTML 및 CSS로 확률을 시각화
