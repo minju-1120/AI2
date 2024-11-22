@@ -55,7 +55,7 @@ def display_right_content(labels):
     # 3rd Row - Text based on labels
     for i, label in enumerate(labels[:3]):
         with cols[i]:
-            st.write(f"{label} 관련 텍스트 내용입니다.")
+            st.write(f"{label} 팽도리는 잘못된 언어 사용입니다. 국립국어원은 '팽볶음'을 표준어로 제시했습니다.")
 
 # 모델 로드
 st.write("모델을 로드 중입니다. 잠시만 기다려주세요...")
