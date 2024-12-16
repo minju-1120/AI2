@@ -83,9 +83,9 @@ content_data = {
             "https://via.placeholder.com/300?text=Label1_Image3"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtube.com/shorts/kqnRszMI9SM?si=dEbWfU9B_Yj0Iq70",
+            "https://youtu.be/ZHy2a7f7OxU?si=x4ngIM-hkAYMYV1t",
+            "https://youtu.be/d--J48fqyi8?si=rm8k9ajqTX_VIRPc"
         ],
         'texts': [
             "0026 라이츄 : 전격은 10만볼트에 이르기도 해서 잘못 만지면 인도 코끼리라도 기절한다.",
@@ -100,9 +100,9 @@ content_data = {
             "https://via.placeholder.com/300?text=Label2_Image3"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://youtu.be/dA4fAiQ0tNM?si=WuA9rHumjMhHleT-",
+            "https://youtu.be/4rtNTW4aIEY?si=VuhIaCkbHhuQnvSP",
+            "https://youtube.com/shorts/TzlMOziiBKg?si=lU0-Z3drjCpew445"
         ],
         'texts': [
             "0172 피츄 : 아직 전기를 모으는 게 서툴다. 놀라거나 웃으면 바로 방전돼 버린다.",
@@ -117,9 +117,9 @@ content_data = {
             "https://via.placeholder.com/300?text=Label3_Image3"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtu.be/h4-ftQE3zEQ?si=GJPfyB8-LHQ8t2iq",
+            "https://youtube.com/shorts/r1SACy3lx-E?si=qAsG1vAdJiZZ8tHr",
+            "https://youtu.be/9kK86zmhpWc?si=_RFHVdlCa7pb2pXj"
         ],
         'texts': [
             "0025 피카츄 : 뺨의 양쪽에 작은 전기 주머니가 있다. 위기 상황일 때 방전한다.",
